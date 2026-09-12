@@ -7,11 +7,9 @@ Audita la salud de los datos de un sistema tipo ERP/POS (PRIMATE, MIXIT, mi-pos,
 Dentro de una sesión de Claude Code:
 
 ```
-/plugin marketplace add <usuario>/auditfile-plugin
+/plugin marketplace add MULTIPLAZA/auditfile-plugin
 /plugin install auditfile@auditfile-marketplace
 ```
-
-(Reemplazá `<usuario>` por el usuario/organización de GitHub donde quede publicado este repo.)
 
 Una vez instalado, el skill queda disponible como `/AuditFile`, y también se activa solo cuando le pedís cosas como "auditá los datos de X" o "revisá la salud del dato".
 
