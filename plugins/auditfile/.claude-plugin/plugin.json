@@ -1,0 +1,8 @@
+{
+  "name": "auditfile",
+  "description": "Audita la salud de los datos de un sistema tipo ERP/POS en 4 ejes: Aprovechamiento, Integridad, Latencia y Veracidad.",
+  "version": "1.0.0",
+  "author": {
+    "name": "NODO"
+  }
+}
